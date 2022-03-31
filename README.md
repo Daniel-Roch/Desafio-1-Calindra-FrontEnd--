@@ -16,4 +16,4 @@ API: [Link](https://mystique-v2-americanas.juno.b2w.io/autocomplete?content=cami
 
 ## Foi hospedado no  Netlify:
 
-- Você pode visualizar o site clicando no [Link]().
+- Você pode visualizar o site clicando no [Link](https://cerulean-bublanina-d6ae70.netlify.app/).
