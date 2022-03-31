@@ -1,0 +1,12 @@
+.div-card-product{
+    background: rgba(8,65,87);
+    color: #fff;
+    padding: 20px;
+    margin: 25px;
+    border-radius: 30px;
+    box-shadow: 5px 5px 10px black;
+    transition: 0.6s;
+}
+.div-card-product:hover{
+    transform: scale(1.05);
+}

@@ -1,0 +1,20 @@
+.main-footer{
+    display: flex;
+    justify-content: center;
+    background: rgba(8,65,87);
+    width: 100%;
+    padding: 10px 0px;
+}
+
+.section-info-footer{
+    display: flex;
+    flex-direction: column;
+}
+.section-info-footer h1{
+    color: #FFF;
+    font-size: 22px;
+}
+
+@media (max-width: 320px){
+    
+}

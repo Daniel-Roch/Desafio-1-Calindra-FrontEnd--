@@ -1,0 +1,20 @@
+.btn{
+    color: #01D5C6;
+    padding: 10px 20px;
+    border: 2px solid #01D5C6;
+    width: 170px;
+
+    border-radius: 23px;
+    background: rgb(9, 84, 114);
+    cursor: pointer;
+    font-size: 18px;
+}
+.btn:hover{
+    background: #01D5C6;
+    color: #FFF;
+}
+.btn:active{
+    background: #07978e;
+    border: 2px solid rgb(9, 146, 137);
+    color: #FFF;
+}
